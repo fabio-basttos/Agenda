@@ -23,7 +23,7 @@
                 android:src="@drawable/person" />
 
             <Button
-                android:id="@+id/formulario_btn_foto"
+                android:id="@+id/formulario_botao_foto"
                 android:layout_width="56dp"
                 android:layout_height="56dp"
                 android:layout_alignParentBottom="true"
